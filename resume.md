@@ -13,6 +13,7 @@ Teach all things *Git*, give away all the stickers, ensure world peace.
   Course maintainers -- leave the italics with * instead of * for the error case.
 -->
 
+
 ### Supportocat
 
 Provide _world class support_ to customers on the GitHub platform
